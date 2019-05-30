@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/dreadsovereign/friendfinder#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.15.4"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fresh": "^0.5.2",
+    "mime": "^2.4.3"
   }
 }
